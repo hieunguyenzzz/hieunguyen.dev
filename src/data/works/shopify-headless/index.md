@@ -2,7 +2,7 @@
 title: Tessjean
 tags: ['Nextjs', 'tailwindcss', 'js', 'shopify', 'graphql']
 category: Shopify Headless
-image: './salty_egg.jpg'
+image: './Screenshot from 2021-09-05 14-17-37.png'
 date: "2021-08-01T22:12:03.284Z"
 description: "Started on April 2021, Tessjean is a startup in Vietnam focus on selling jean. The website is built with NextJS with Shopify in the backend to get the speed extremely fast and have more space for customization compare to the shopify original theme setup"
 ---

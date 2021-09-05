@@ -2,7 +2,7 @@
 title: Meraki wedding planner
 tags: ['Nextjs', 'tailwindcss', 'js', 'wordpress', 'graphql', 'strapi', 'tinacms']
 category: Wordpress Headless
-image: './salty_egg.jpg'
+image: './Screenshot from 2021-09-05 14-15-40.png'
 date: "2021-08-01T22:12:03.284Z"
 description: "Started on Jun 2021, Meraki team has very high requirement about their website so they has designed the website on their own, plus they also need to keep the old website backend which is in Wordpress, and fontend has to be extremely fast, serving multiple languages, and flexible enough so they can drag and drop each components of each wedding page to fit to the wedding's color and schema"
 ---
