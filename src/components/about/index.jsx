@@ -6,7 +6,7 @@ import {SectionIntro, ContainerLayout, ResumeButton} from "../common";
 const About = () => {
   const data = useStaticQuery(graphql`
     query {
-      placeholderImage: file(relativePath: { eq: "profile.webp" }) {
+      placeholderImage: file(relativePath: { eq: "avatar.JPEG" }) {
         childImageSharp {
           fluid(maxWidth: 550) {
             ...GatsbyImageSharpFluid
@@ -25,12 +25,12 @@ const About = () => {
               <SubTitle> Front End Developer</SubTitle>
             </div> 
             <div>
-              <Title> Hello, I’m AbdAli </Title>
-              <Text> I'm a digital Front End Developer hailing from <b className="text-primary lined-link">North Africa</b> living in Casablanca. </Text>
-              <Text> I love working with modern technologies, building and designing awesome projects. I prefer minimalistic & clean designs with strong user experience.</Text>
-              <Text> behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.
-              </Text>
-              <ResumeButton href="resume.pdf" target="_blank"> Download resume </ResumeButton>
+              <Title> Hello, I’m Hieu Nguyen </Title>
+              <Text> I'm a Front End Developer hailing from <b className="text-primary lined-link">Viet Nam</b> living in Ho Chi Minh city. </Text>
+              <Text> I love working with modern technologies, building and working with awesome projects. I like all the thing about ecommerce. I prefer minimalistic & clean code base. My aiming is to delivery good quality code, and easy to maintain</Text>
+              <Text> I graduated from FTP University, bachelor of computer engineering in 2012, I have been a developer of few companies in Vietnam and UK before working as a fulltime freelancer in 2018</Text>            
+              <Text> My skill set is: NextJS, ,GatsbyJS, tailwindcss, Strapi, Graphql</Text>            
+              
             </div>
           </AboutSection>
         </ContainerLayout>

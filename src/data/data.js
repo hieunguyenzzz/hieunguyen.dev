@@ -1,7 +1,7 @@
 module.exports = {
-  SiteTitle: 'Abdelali',
+  SiteTitle: 'Hieu\'s',
   Sitelogo: '#',
-  SiteLogoText: 'Abdelali',
+  SiteLogoText: 'Hieu\'s',
   SiteAuthor: 'Abdelali Dahir',
   SiteDescription: 'Front End Developer',
   defaultDescription: 'Software engineer!', 
@@ -41,20 +41,18 @@ module.exports = {
   githubApiVariables: {
     number_of_repos: 12,
   }, 
-  SiteSocialLinks: {
-    twitter: 'https://twitter.com/AbdaliDahir',
-    github: 'https://github.com/AbdaliDahir',
+  SiteSocialLinks: {    
     linkedin: 'https://www.linkedin.com/in/abdelali-dahir-0b5344111/',
   },
   SiteAddress: {
-    city: 'Casablanca',
-    region: 'CurvaSud',
-    country: 'Morocco',
-    zipCode: 'ZipCode',
+    city: 'Ho Chi Minh',
+    region: '',
+    country: 'Viet Nam',
+    zipCode: '700000',
   },
   SiteContact: {
-    email: 'abdali.dahir@gmail.com',
-    phone: 'phone number',
+    email: 'hieunguyenel@gmail.com',
+    phone: '+84778287898',
   },
   SiteCopyright: '2020',
 };
