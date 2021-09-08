@@ -12,7 +12,7 @@ https://merakiweddingplanner.com
 --------------------------
 The website has 8 pages which has been designed by meraki team so they gave the team design of each page in PSD. Each page has to be editable directly on the frontend 
 
-Portfolio page will be display all the wedding they made which is the most difficult part of the job as they want each wedding to have unique design where they can drag and drop each component like text or image to fit with wedding color and culture of wedding couple.
+Portfolio page will be displaying all the wedding they made which is the most difficult part of the job as they want each wedding to have unique design where they can drag and drop each component like text or image to fit with wedding color and culture of wedding couple.
 
 https://merakiweddingplanner.com/gallery/lucia-qui
 https://merakiweddingplanner.com/gallery/xu-hieu
