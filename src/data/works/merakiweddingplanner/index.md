@@ -14,7 +14,14 @@ The website has 8 pages which has been designed by meraki team so they gave the 
 
 Portfolio page will be display all the wedding they made which is the most difficult part of the job as they want each wedding to have unique design where they can drag and drop each component like text or image to fit with wedding color and culture of wedding couple.
 
+https://merakiweddingplanner.com/gallery/lucia-qui
+https://merakiweddingplanner.com/gallery/xu-hieu
+https://merakiweddingplanner.com/gallery/thu-son
+
 The second difficult thing of the job is to migrating with Wordpress backend, every post is built by Wordpress plugin Elementor which have unique design and style. And all of the unique design of each post will have to be kept on the frontend NextJS
+
+https://merakiweddingplanner.com/blog
+
 
 coding stack: NextJS, Tailwindcss, TinaCMS, Strapi
 
